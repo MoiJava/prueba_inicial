@@ -7,7 +7,7 @@ public class Persona {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Ejemplo
+		//Ejemplo. Nuevo ejemplo desde Github
 		
 		Persona obj1, obj2;
 		
